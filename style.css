@@ -85,7 +85,7 @@ main{
  }
     
 .imgr{
-    float:right;
+    float:left;
     display:block;
     width: 224px;
     height: 310;
